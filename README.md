@@ -22,4 +22,4 @@ The confusion matrix provides a visual representation of the performance of the 
 
 ## Model Accuracy
 
-The accuracy of the fake news detection model is 75%.
+The accuracy of the fake news detection model was 78%.
